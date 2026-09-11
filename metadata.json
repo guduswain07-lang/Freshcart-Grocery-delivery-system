@@ -1,0 +1,10 @@
+{
+  "name": "Grocery Delivery Management System with Real-Time Order Tracking",
+  "description": "MERN-based grocery ordering and live delivery tracking system with customer, delivery partner, and admin portals featuring OpenStreetMap Leaflet live tracking and Socket.IO.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
